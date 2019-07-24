@@ -1,0 +1,28 @@
+#shape {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    position: relative;
+}
+
+#body {
+    background-color: rgb(49, 134, 134);
+}
+
+.topText {
+    text-align: center;
+    width: 100%;
+    float: left;
+    background-color: rgb(218, 104, 29);
+}
+
+.reset{
+    float: left;
+
+}
+
+.home {
+   text-align: center;
+
+}
+
